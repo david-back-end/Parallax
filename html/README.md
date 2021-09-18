@@ -1,0 +1,1 @@
+Projeto criado para aplicar os conhecimantos sobre o efeito parallax.
